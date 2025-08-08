@@ -23,7 +23,7 @@ Step 2: Set configuration with git
 
 Step 3: Create Token Key for GitHub Login
 
-        open Github > Settings > Developer Settings > Personal access token         > Tokens(classic) > Generate new token > classic > Done
+        open Github > Settings > Developer Settings > Personal access token > Tokens(classic) > Generate new token > classic > Done
 
 Step 4: Clone your Repository in your system
 
